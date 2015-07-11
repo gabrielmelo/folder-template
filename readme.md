@@ -10,19 +10,22 @@ Através dele, desejamos estruturar e manter organizado todos arquivos relaciona
 ## Instalação:
 
 
-## Estrutura:
+## Estrutura
 
-### Client Input
+### Assets
 
-Este diretório deve conter tudo que o cliente enviar durante o desenvolvimento do projeto. Trata-se dos arquivos, documentos, anotações, imagens e etc...
+Este diretório contém fotos, vetores, fontes, icones e todos elementos de design utilizado para compor o layout final. 
+
 
 ### Businnes
 
 Este diretório deve conter propostas, cronograma, planejamento, slides, pautas de reuniões. Ou seja, todos documentos ou planilha que envolva o projeto.
 
-### Assets
 
-Este diretório contém fotos, vetores, fontes, icones e todos elementos de design utilizado para compor o layout final. 
+### Client Input
+
+Este diretório deve conter tudo que o cliente enviar durante o desenvolvimento do projeto. Trata-se dos arquivos, documentos, anotações, imagens e etc...
+
 
 ### Design
 
@@ -56,8 +59,8 @@ Para projetos web, este é o diretório onde devemos colocar os arquivos da apli
 
 Observações: Em caso de projetos web, pode ser relacionado diretórios externos associados ao submódulo do git ou dependência.
 
-Photos, vectors, icons and other design elements you use to put together your designs. In other words, everything that is a part of your final layout should go here.
-
+<br>
+<br>
 Folder Skeleton é um projeto baseado na proposta de estrutura de arquivos feita por [Peter Vukovic](https://twitter.com/pvukovic), titulada em How to keep your design files neat and tidy. 
 
 Para mais informações: <http://99designs.com/designer-blog/2013/02/06/how-to-keep-your-design-files-neat-and-tidy/>
