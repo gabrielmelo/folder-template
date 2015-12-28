@@ -4,6 +4,9 @@ Folder Skeleton é um sistema de arquivamento de pastas e arquivos de um projeto
 
 Através dele, desejamos estruturar e manter organizado todos arquivos relacionados a uma projeto de maneira mais eficaz para a equipe.
 
+Folder Skeleton é um projeto baseado na proposta de estrutura de arquivos feita por [Peter Vukovic](https://twitter.com/pvukovic), titulada em How to keep your design files neat and tidy. 
+
+Para mais informações: <http://99designs.com/designer-blog/2013/02/06/how-to-keep-your-design-files-neat-and-tidy/>
 
 ---
 
@@ -26,11 +29,11 @@ Este diretório contém fotos, vetores, fontes, icones e todos elementos de desi
 
 ### Design
 
-Este diretório contém os arquivos do projeto. Nele não deve conter nada além das versões caso não esteja usando git ou apenas a versão final e única do projeto. 
+Este diretório contém os arquivos do projeto. Nele não deve conter nada além das versões do arquivo, caso não esteja usando um controlador de versões, mantenha os últimos arquivos enviados para aprovação separados. Ou seja, gere novas versão única e final para cada arquivo.
 
 Exemplos:
 
-** Sem git **
+** Sem controlador de versões **
 
 	-	Photoshop_01.psd
 	-	Photoshop_02.psd
@@ -41,23 +44,14 @@ Exemplos:
 	-	Illustrator_02.ai
 	-	Illustrator_03.ai
 	
-** Com git **
+** Com controlador de versões **
 
 	-	Photoshop.psd
 	
 	-	Illustrator.ai
 	
-Mais informações sobre git neste link: <https://git-scm.com>
 
 ### Production
-Este diretório deve conter todos os arquivos finais para entrega ao cliente. Para os projetos cujos a finalidade é impressão, esta é a pasta onde coloca-se os arquivos para pré-impressão, que podem ser enviados para a impressoa, tais como: PDF, TIFF, PNG e etc...
+Este diretório deve conter todos os arquivos finais para entrega ao cliente ou área envolvida. Para os projetos cujos a finalidade é impressão, esta é a pasta onde coloca-se os arquivos para pré-impressão, tais como: PDF, TIFF, PNG e etc...
 
-Para projetos web, este é o diretório onde devemos colocar os arquivos da aplicação, tais como: HTML, CSS e Javascript.
-
-Observações: Em caso de projetos web, pode ser relacionado diretórios externos associados ao submódulo do git ou dependência.
-
-Photos, vectors, icons and other design elements you use to put together your designs. In other words, everything that is a part of your final layout should go here.
-
-Folder Skeleton é um projeto baseado na proposta de estrutura de arquivos feita por [Peter Vukovic](https://twitter.com/pvukovic), titulada em How to keep your design files neat and tidy. 
-
-Para mais informações: <http://99designs.com/designer-blog/2013/02/06/how-to-keep-your-design-files-neat-and-tidy/>
+Para projetos web, este é o diretório onde devemos colocar o guia de estilo referênte a interface, tais como: HTML, CSS e Javascript.
