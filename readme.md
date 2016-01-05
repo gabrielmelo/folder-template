@@ -1,6 +1,6 @@
-# Folder Skeleton 
+# Filing System
 
-Folder Skeleton é um sistema de arquivamento de pastas e arquivos de um projeto.
+Filing System é um sistema de arquivamento de pastas e arquivos de um projeto.
 
 Através dele, desejamos estruturar e manter organizado todos arquivos relacionados a uma projeto de maneira mais eficaz para a equipe.
 
