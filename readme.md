@@ -11,11 +11,11 @@ Folder Template é baseado na proposta de estrutura de arquivos feita por [Peter
 ## Instalação:
 
 
-## Estrutura:
+## Estrutura
 
 ### Assets
 
-Este diretório contém fotos, vetores, fontes, icones e todos elementos de design utilizado para compor o layout final.
+Este diretório contém fotos, vetores, fontes, icones e todos elementos de design utilizado para compor o layout final. 
 
 
 ### Businnes
@@ -25,7 +25,7 @@ Este diretório deve conter propostas, cronograma, planejamento, slides, pautas 
 
 ### Client Input
 
-Este diretório deve conter tudo que o cliente enviar durante o desenvolvimento do projeto. Trata-se dos arquivos, documentos não analisados ou de consulta, anotações, imagens não "tratadas". Após as analises, organização e tratamento de cada documento, é indicado que a reorganização aos diretórios mais indicados.
+Este diretório deve conter tudo que o cliente enviar durante o desenvolvimento do projeto. Trata-se dos arquivos, documentos, anotações, imagens e etc...
 
 
 ### Design
@@ -56,6 +56,9 @@ Exemplos:
 
 ### Production
 
-Este diretório deve conter todos os arquivos finais para entrega ao cliente ou área envolvida. Esta pasta é onde coloca-se os arquivos para pré-impressão, tais como: PDF, TIFF, PNG e etc...
+Este diretório deve conter todos os arquivos finais para entrega ao cliente. Para os projetos cujos a finalidade é impressão, esta é a pasta onde coloca-se os arquivos para pré-impressão, que podem ser enviados para a impressoa, tais como: PDF, TIFF, PNG e etc...
 
-Para projetos web, este é o diretório onde devemos colocar o guia de estilo referênte a interface, tais como: HTML, CSS e Javascript.
+Para projetos web, este é o diretório onde devemos colocar os arquivos da aplicação, tais como: HTML, CSS e Javascript.
+
+Observações: Em caso de projetos web, pode ser relacionado diretórios externos associados ao submódulo do git ou dependência.
+
