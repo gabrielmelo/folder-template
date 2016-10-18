@@ -10,12 +10,11 @@ Folder Template é baseado na proposta de estrutura de arquivos feita por [Peter
 
 ## Instalação:
 
-
 ## Estrutura
 
 ### Assets
 
-Este diretório contém fotos, vetores, fontes, icones e todos elementos de design utilizado para compor o layout final. 
+Este diretório contém fotos, vetores, fontes, icones e todos elementos de design utilizado para compor o layout final.
 
 
 ### Businnes
@@ -23,9 +22,9 @@ Este diretório contém fotos, vetores, fontes, icones e todos elementos de desi
 Este diretório deve conter propostas, cronograma, planejamento, slides, pautas de reuniões. Ou seja, todos documentos ou planilha que envolva o projeto.
 
 
-### Client Input
+#### Client Input
 
-Este diretório deve conter tudo que o cliente enviar durante o desenvolvimento do projeto. Trata-se dos arquivos, documentos, anotações, imagens e etc...
+Este diretório deve conter tudo que o cliente enviar durante o desenvolvimento do projeto. Trata-se dos arquivos, documentos, anotações de reuniões, imagens e etc...
 
 
 ### Design
@@ -38,21 +37,21 @@ Exemplos:
 
 ** Sem controlador de versões **
 
-	-	Photoshop_01.psd
-	-	Photoshop_02.psd
-	-	Photoshop_03.psd		
-	-	Photoshop_04.psd
-	
-	-	Illustrator_01.ai
-	-	Illustrator_02.ai
-	-	Illustrator_03.ai
-	
+    -    Photoshop_01.psd
+    -    Photoshop_02.psd
+    -    Photoshop_03.psd        
+    -    Photoshop_04.psd
+    
+    -    Illustrator_01.ai
+    -    Illustrator_02.ai
+    -    Illustrator_03.ai
+    
 ** Com controlador de versões **
 
-	-	Photoshop.psd
-	
-	-	Illustrator.ai
-	
+    -    Photoshop.psd
+    
+    -    Illustrator.ai
+    
 
 ### Production
 
